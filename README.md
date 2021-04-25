@@ -1,3 +1,3 @@
 # datasets
  
-Te dhenat jane marre ne baza ditore nga faqja e IKSHPK ne Facebook. Nuk garantojme dhe nuk marrim pergjegjesi per saktesine e te dhenave. 
+I do not claim or guarantee the accuracy of the data in this repository. I disclaim any responsibility or liability for errors and omissions.  
