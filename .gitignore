@@ -50,3 +50,5 @@ elections/local/.DS_Store
 .DS_Store
 .Rproj.user
 *.Rproj
+.RData
+.Rhistory
