@@ -33,3 +33,14 @@ generate_data.R
 .RData
 .Rhistory
 *.DS_Store
+elections/scripts/National Elec 2021.R
+elections/scripts/National Elec 2019.R
+elections/scripts/National Elec 2017.R
+elections/scripts/National Elec 2014.R
+elections/scripts/National Elec 2010.R
+elections/scripts/Mayor Runoff 2017 R2.R
+elections/scripts/Mayor Runoff 2013 R2.R
+elections/scripts/Mayor General 2017 R1.R
+elections/scripts/Mayor General 2013 R1.R
+elections/scripts/Local Elec 2017.R
+elections/scripts/Local Elec 2013.R
