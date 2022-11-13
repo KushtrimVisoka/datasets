@@ -1,0 +1,51 @@
+id,Party_ID,Party,Acronym,Candidate,Votes,Municipality
+2,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,PAL LEKAJ,22500,Gjakovë
+2,89,Aleanca Kosova e Re,AKR,MIMOZA KUSARI-LILA,24832,Gjakovë
+4,78,Lidhja Demokratike e Kosovës,LDK,LUTFI HAZIRI,25547,Gjilan
+4,99,Partia Demokratike e Kosovës,PDK,QEMAJL MUSTAFA,16994,Gjilan
+5,78,Lidhja Demokratike e Kosovës,LDK,FATMIR MEHMETI,4437,Dragash
+5,99,Partia Demokratike e Kosovës,PDK,SALIM JENUZI,6864,Dragash
+8,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,ENVER BERISHA,2235,Klinë
+8,99,Partia Demokratike e Kosovës,PDK,SOKOL BASHOTA,6798,Klinë
+10,78,Lidhja Demokratike e Kosovës,LDK,SHAIP SURDULLI,7513,Kamenicë
+10,99,Partia Demokratike e Kosovës,PDK,BEGZAD SINANI,9189,Kamenicë
+11,89,Aleanca Kosova e Re,AKR,AGIM BAHTIRI,12178,Mitrovicë
+11,99,Partia Demokratike e Kosovës,PDK,AVNI KASTRATI,11159,Mitrovicë
+13,78,Lidhja Demokratike e Kosovës,LDK,IMRI AHMETI,15585,Lipjan
+13,99,Partia Demokratike e Kosovës,PDK,SHUKRI BUJA,13325,Lipjan
+14,78,Lidhja Demokratike e Kosovës,LDK,BAJRUSH YMERI,2222,Novobërdë
+14,126,G i Srpska,GIS,SVETISLAV IVANOVIĆ,2892,Novobërdë
+15,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,XHAFER GASHI,5346,Obiliq
+15,78,Lidhja Demokratike e Kosovës,LDK,MEHMET KRASNIQI,4579,Obiliq
+16,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,SMAJL LATIFI,10644,Rahovec
+16,99,Partia Demokratike e Kosovës,PDK,IDRIZ VEHAPI,11750,Rahovec
+17,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,ALI BERISHA,17744,Pejë
+17,78,Lidhja Demokratike e Kosovës,LDK,GAZMEND MUHAXHERI,23007,Pejë
+19,61,Lëvizja VETËVENDOSJE!,LVV,SHPEND AHMETI,37049,Prishtinë
+19,78,Lidhja Demokratike e Kosovës,LDK,ISA MUSTAFA,34503,Prishtinë
+20,78,Lidhja Demokratike e Kosovës,LDK,EQREM KRYEZIU,23399,Prizren
+20,99,Partia Demokratike e Kosovës,PDK,RAMADAN MUJA,26738,Prizren
+23,126,G i Srpska,GIS,IVAN REDŽIĆ,2898,Shtërpcë
+23,130,Samostalna Liberalna Stranka,SLS,BRATISLAV NIKOLIĆ,3692,Shtërpcë
+24,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,BALI MUHARREMAJ,12073,Suharekë
+24,78,Lidhja Demokratike e Kosovës,LDK,SALI ASLLANAJ,13834,Suharekë
+25,78,Lidhja Demokratike e Kosovës,LDK,MUHAREM SVARQA,22719,Ferizaj
+25,99,Partia Demokratike e Kosovës,PDK,AGIM ALIU,21898,Ferizaj
+26,78,Lidhja Demokratike e Kosovës,LDK,SOKOL HALITI,11055,Viti
+26,99,Partia Demokratike e Kosovës,PDK,NEXHMEDIN ARIFI,7695,Viti
+27,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,MUHARREM SHABANI,8265,Vushtrri
+27,99,Partia Demokratike e Kosovës,PDK,BAJRAM MULAKU,10165,Vushtrri
+30,78,Lidhja Demokratike e Kosovës,LDK,SALIH MORINA,6239,Malishevë
+30,109,Iniciativa Qytetare për Malishevën,IQM,RAGIP BEGAJ,12029,Malishevë
+31,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,AGRON KUÇI,1406,Junik
+31,78,Lidhja Demokratike e Kosovës,LDK,ZENUN SHALA,848,Junik
+34,108,Savez Kosovskih Srba,SKS,BOJAN STOJANOVIĆ,3718,Graçanicë
+34,126,G i Srpska,GIS,BRANIMIR STOJANOVIĆ,5278,Graçanicë
+35,126,G i Srpska,GIS,GRADIMIR MIKIĆ,1585,Ranillug
+35,134,Srpska Narodna Partija Kosova,SNPK,MILAN ARITONOVIĆ,1463,Ranillug
+36,126,G i Srpska,GIS,DRAGAN NIKOLIĆ,1398,Partesh
+36,130,Samostalna Liberalna Stranka,SLS,NENAD CVETKOVIĆ,1272,Partesh
+37,126,G i Srpska,GIS,SREĆKO SPASIĆ,1019,Kllokot
+37,130,Samostalna Liberalna Stranka,SLS,SAŠA MIRKOVIĆ,854,Kllokot
+38,41,Gi Sdp Oliver Ivanovic,GISI,OLIVER IVANOVIĆ,1887,Mitrovicë e Veriut
+38,126,G i Srpska,GIS,KRSTIMIR PANTIĆ,2251,Mitrovicë e Veriut

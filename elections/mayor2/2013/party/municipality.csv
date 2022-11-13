@@ -1,0 +1,51 @@
+id,Party_ID,Party,Acronym,Votes,Municipality
+2,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,22500,Gjakovë
+2,89,Aleanca Kosova e Re,AKR,24832,Gjakovë
+4,78,Lidhja Demokratike e Kosovës,LDK,25547,Gjilan
+4,99,Partia Demokratike e Kosovës,PDK,16994,Gjilan
+5,78,Lidhja Demokratike e Kosovës,LDK,4437,Dragash
+5,99,Partia Demokratike e Kosovës,PDK,6864,Dragash
+8,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,2235,Klinë
+8,99,Partia Demokratike e Kosovës,PDK,6798,Klinë
+10,78,Lidhja Demokratike e Kosovës,LDK,7513,Kamenicë
+10,99,Partia Demokratike e Kosovës,PDK,9189,Kamenicë
+11,89,Aleanca Kosova e Re,AKR,12178,Mitrovicë
+11,99,Partia Demokratike e Kosovës,PDK,11159,Mitrovicë
+13,78,Lidhja Demokratike e Kosovës,LDK,15585,Lipjan
+13,99,Partia Demokratike e Kosovës,PDK,13325,Lipjan
+14,78,Lidhja Demokratike e Kosovës,LDK,2222,Novobërdë
+14,126,G i Srpska,GIS,2892,Novobërdë
+15,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,5346,Obiliq
+15,78,Lidhja Demokratike e Kosovës,LDK,4579,Obiliq
+16,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,10644,Rahovec
+16,99,Partia Demokratike e Kosovës,PDK,11750,Rahovec
+17,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,17744,Pejë
+17,78,Lidhja Demokratike e Kosovës,LDK,23007,Pejë
+19,61,Lëvizja VETËVENDOSJE!,LVV,37049,Prishtinë
+19,78,Lidhja Demokratike e Kosovës,LDK,34503,Prishtinë
+20,78,Lidhja Demokratike e Kosovës,LDK,23399,Prizren
+20,99,Partia Demokratike e Kosovës,PDK,26738,Prizren
+23,126,G i Srpska,GIS,2898,Shtërpcë
+23,130,Samostalna Liberalna Stranka,SLS,3692,Shtërpcë
+24,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,12073,Suharekë
+24,78,Lidhja Demokratike e Kosovës,LDK,13834,Suharekë
+25,78,Lidhja Demokratike e Kosovës,LDK,22719,Ferizaj
+25,99,Partia Demokratike e Kosovës,PDK,21898,Ferizaj
+26,78,Lidhja Demokratike e Kosovës,LDK,11055,Viti
+26,99,Partia Demokratike e Kosovës,PDK,7695,Viti
+27,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,8265,Vushtrri
+27,99,Partia Demokratike e Kosovës,PDK,10165,Vushtrri
+30,78,Lidhja Demokratike e Kosovës,LDK,6239,Malishevë
+30,109,Iniciativa Qytetare për Malishevën,IQM,12029,Malishevë
+31,62,AAK-LDD - Aleanca Për Ardhmërinë e Kosovës,AAK-LDD,1406,Junik
+31,78,Lidhja Demokratike e Kosovës,LDK,848,Junik
+34,108,Savez Kosovskih Srba,SKS,3718,Graçanicë
+34,126,G i Srpska,GIS,5278,Graçanicë
+35,126,G i Srpska,GIS,1585,Ranillug
+35,134,Srpska Narodna Partija Kosova,SNPK,1463,Ranillug
+36,126,G i Srpska,GIS,1398,Partesh
+36,130,Samostalna Liberalna Stranka,SLS,1272,Partesh
+37,126,G i Srpska,GIS,1019,Kllokot
+37,130,Samostalna Liberalna Stranka,SLS,854,Kllokot
+38,41,Gi Sdp Oliver Ivanovic,GISI,1887,Mitrovicë e Veriut
+38,126,G i Srpska,GIS,2251,Mitrovicë e Veriut
